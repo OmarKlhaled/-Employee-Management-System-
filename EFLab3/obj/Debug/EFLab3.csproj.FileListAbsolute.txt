@@ -1,0 +1,16 @@
+C:\Users\Omar Khaled\Projects\EFLab3\EFLab3\bin\Debug\EFLab3.exe.config
+C:\Users\Omar Khaled\Projects\EFLab3\EFLab3\bin\Debug\EFLab3.exe
+C:\Users\Omar Khaled\Projects\EFLab3\EFLab3\bin\Debug\EFLab3.pdb
+C:\Users\Omar Khaled\Projects\EFLab3\EFLab3\bin\Debug\EntityFramework.dll
+C:\Users\Omar Khaled\Projects\EFLab3\EFLab3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Omar Khaled\Projects\EFLab3\EFLab3\bin\Debug\EntityFramework.xml
+C:\Users\Omar Khaled\Projects\EFLab3\EFLab3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Omar Khaled\Projects\EFLab3\EFLab3\obj\Debug\EFLab3.csproj.AssemblyReference.cache
+C:\Users\Omar Khaled\Projects\EFLab3\EFLab3\obj\Debug\EFLab3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Omar Khaled\Projects\EFLab3\EFLab3\obj\Debug\EFLab3.Form1.resources
+C:\Users\Omar Khaled\Projects\EFLab3\EFLab3\obj\Debug\EFLab3.Properties.Resources.resources
+C:\Users\Omar Khaled\Projects\EFLab3\EFLab3\obj\Debug\EFLab3.csproj.GenerateResource.cache
+C:\Users\Omar Khaled\Projects\EFLab3\EFLab3\obj\Debug\EFLab3.csproj.CoreCompileInputs.cache
+C:\Users\Omar Khaled\Projects\EFLab3\EFLab3\obj\Debug\EFLab3.csproj.CopyComplete
+C:\Users\Omar Khaled\Projects\EFLab3\EFLab3\obj\Debug\EFLab3.exe
+C:\Users\Omar Khaled\Projects\EFLab3\EFLab3\obj\Debug\EFLab3.pdb
